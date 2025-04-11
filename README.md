@@ -1,9 +1,4 @@
 # Analysis-on-Customer-Dataset
-This report examines a customer dataset to understand subscription patterns across countries  and time periods. The analysis encompasses data cleaning, statistical summaries,  visualizations, outlier detection, distribution analysis,  statistical tests, probability distributions and an introduction to A/B testing.
-It seems you’re asking for a description of the analysis performed in the Python script (meow.py) that we’ve been working with, likely to include in your GitHub repository (e.g., https://github.com/Srish19/Analysis-on-Customer-Dataset) or a report. I’ll provide a concise yet comprehensive description of the analysis, focusing on its purpose, methods, and key components, tailored to your script. This can be used in your README.md on GitHub or as part of your documentation.
-
-Description of the Analysis
-Overview
 This analysis explores a customer dataset (customer_data.csv) to uncover patterns and insights related to subscription behavior across different countries and time periods. The primary goal is to preprocess the data, perform statistical tests, visualize trends, and evaluate distribution properties, providing a foundation for understanding customer subscription dynamics. The analysis is implemented in Python using a suite of libraries (Pandas, NumPy, Matplotlib, Seaborn, SciPy, Statsmodels) and is designed to be both exploratory and educational, avoiding complex machine learning models.
 
 Dataset
